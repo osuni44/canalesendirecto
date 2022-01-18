@@ -2,6 +2,9 @@
 #EXTINF:-1 ,PEQUERADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1  ,Rakuten en familia
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 ,PLUTO TV JUNIOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -203,15 +206,45 @@ http://user.tvcluboficial.com/stream/free_eDeR_4BD/LDc/753.m3u8
 #EXTINF:-1 ,BeinSport ñ
 http://user.tvcluboficial.com/stream/free_eDeR_4BD/LDc/761.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,Rakuten Tv Accion
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,Rakuten Tv Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,Rakuten Tv Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,Atrescine
+https://www.uncdp.com/proxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,Feel Good
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,Run Time
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,Mtv
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 ,Country Music Televisión
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 ,Xl Musica TV
+https://cloud2.streaminglivehd.com/8098/8098/.m3u8
+
+#EXTINF:-1 ,Cadena Élite TV
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sierra TV
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+
+#EXTINF:-1 ,Retro TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Retro TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 ,
 
