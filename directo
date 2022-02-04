@@ -188,6 +188,9 @@ http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38120
 #EXTINF:-1 ,Calle 13
 http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38118
 
+#EXTINF:-1 ,Calle 13
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1179
+
 #EXTINF:-1 ,Comedy Central
 http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38114
 
@@ -280,23 +283,62 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 ,La1 HD
 http://jvhalyb7c1vr4pjmzfo0h6.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=355&t=live&f=ts
 
+#EXTINF:-1 ,La 1
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1137
+
 #EXTINF:-1 ,La2 HD
 http://x1grvkd75hfwnbu3mtcsgm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=421&t=live&f=ts
 
 #EXTINF:-1 ,Antena3 HD
 http://g29kvwzsm1hq5udwrfyyfa.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=348&t=live&f=ts
 
+#EXTINF:-1 ,Antena3
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1145
+
 #EXTINF:-1 ,Cuatro HD
 http://ctr4zuehk6yv9p30wdjmeg.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=351&t=live&f=ts
+
+#EXTINF:-1 ,Cuatro
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1146
 
 #EXTINF:-1 ,Telecinco HD
 http://7rustqtaoxpv9lv2e0nxdn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=374&t=live&f=ts
 
+#EXTINF:-1 ,Telecinco
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1147
+
 #EXTINF:-1 ,La Sexta HD
 http://ynizlrg9uhuaq85gwqojta.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=356&t=live&f=ts
 
+#EXTINF:-1 ,La Sexta
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1148
+
+#EXTINF:-1 ,FDF
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1150
+
+EXTINF:-1 ,Energy
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1151
+
+EXTINF:-1 ,Neox
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1154
+
+EXTINF:-1 ,Mega 
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1156
+
+EXTINF:-1 ,A3 Series
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1157
+
+EXTINF:-1 ,Dkiss
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1158
+
+EXTINF:-1 ,Comedy Central
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1163
+
 #EXTINF:-1 ,M.Estrenos HD
 http://z8w92n5at7kryrzijmhmku.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=364&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Estrenos
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1164
 
 #EXTINF:-1 ,M.Estrenos2 HD
 http://o7jxgdts4zwrswz10bkgdn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26663&t=live&f=ts
@@ -304,11 +346,20 @@ http://o7jxgdts4zwrswz10bkgdn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 #EXTINF:-1 ,M.Accion HD
 http://exch2mr3nbziltqavqisoe.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=358&t=live&f=ts
 
+#EXTINF:-1 ,Movistar Accion
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1166
+
 #EXTINF:-1 ,M.Comedia HD
 http://1f7pcilao6nwlkhifeusnr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=363&t=live&f=ts
 
+EXTINF:-1 ,Movistar Comedia
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1167
+
 #EXTINF:-1 ,M.Drama HD
 http://tpze7xvl4kc6gjus8ktoyg.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=360&t=live&f=ts
+
+#EXTINF:-1 ,Movistar Drama
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1168
 
 #EXTINF:-1 ,M.Cine Ñ
 http://ca4juejms5saryf7lgpwbm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=426&t=live&f=ts
