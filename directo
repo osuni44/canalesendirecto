@@ -364,6 +364,9 @@ http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1168
 #EXTINF:-1 ,Movistar CineDock&Roll
 http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1169
 
+#EXTINF:-1 ,Movistar CineÑ
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1171
+
 #EXTINF:-1 ,M.Cine Ñ
 http://ca4juejms5saryf7lgpwbm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=426&t=live&f=ts
 
@@ -378,6 +381,15 @@ http://4edgw01i7pwl89z5vveuks.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 
 #EXTINF:-1 ,Hollywood HD
 http://iywvcvhq1f6x357rnwkhdj.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=354&t=live&f=ts
+
+#EXTINF:-1 ,Hollywood
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1175
+
+#EXTINF:-1 ,AMC
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1177
+
+#EXTINF:-1 ,TCM
+http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1178
 
 #EXTINF:-1 ,Paramount
 http://gpfhujxt04ptkr72kqvano.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3855&t=live&f=ts
