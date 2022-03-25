@@ -300,17 +300,11 @@ http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1163
 #EXTINF:-1 ,M.Estrenos HD
 http://z8w92n5at7kryrzijmhmku.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=364&t=live&f=ts
 
-#EXTINF:-1 ,Movistar Estrenos
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1164
-
 #EXTINF:-1 ,M.Estrenos2 HD
 http://o7jxgdts4zwrswz10bkgdn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26663&t=live&f=ts
 
 #EXTINF:-1 ,M.Accion HD
 http://exch2mr3nbziltqavqisoe.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=358&t=live&f=ts
-
-#EXTINF:-1 ,Movistar Accion
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1166
 
 #EXTINF:-1 ,M.Comedia HD
 http://1f7pcilao6nwlkhifeusnr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=363&t=live&f=ts
@@ -320,18 +314,6 @@ http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1167
 
 #EXTINF:-1 ,M.Drama HD
 http://tpze7xvl4kc6gjus8ktoyg.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=360&t=live&f=ts
-
-#EXTINF:-1 ,Movistar Drama
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1168
-
-#EXTINF:-1 ,Movistar CineDock&Roll
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1169
-
-#EXTINF:-1 ,Movistar CineÑ
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1171
-
-#EXTINF:-1 ,M.Cine Ñ
-http://ca4juejms5saryf7lgpwbm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=426&t=live&f=ts
 
 #EXTINF:-1 ,M.Fest
 http://nk7udcy93hr0sl8gj6dkez.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26664&t=live&f=ts
@@ -345,143 +327,17 @@ http://4edgw01i7pwl89z5vveuks.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 #EXTINF:-1 ,Hollywood HD
 http://iywvcvhq1f6x357rnwkhdj.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=354&t=live&f=ts
 
-#EXTINF:-1 ,Hollywood
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1175
-
-#EXTINF:-1 ,AMC
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1177
-
-#EXTINF:-1 ,TCM
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1178
-
-#EXTINF:-1 ,#0
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38030
-
 #EXTINF:-1 ,Paramount
 http://gpfhujxt04ptkr72kqvano.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3855&t=live&f=ts
-
-#EXTINF:-1 ,Movistar SeriesMania
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1186
 
 #EXTINF:-1 ,M.Clasicos
 http://yprknwjpcys1v5u6elrott.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26665&t=live&f=ts
 
-#EXTINF:-1 ,Odisea
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1187
-
-#EXTINF:-1 ,Discovery Channel
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1188
-
-#EXTINF:-1 ,Iberalia TV
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1191
-
-#EXTINF:-1 ,Ten Crimen
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1192
-
-#EXTINF:-1 ,Historia
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1194
-
-#EXTINF:-1 ,Nat Geo Wild
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1195
-
-#EXTINF:-1 ,National Geographic
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1196
-
-
-
-#EXTINF:-1 ,Barca TV
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38102
-
-#EXTINF:-1 ,Movistar Liga de Campeones
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38065
-
-#EXTINF:-1 ,Eurosport1
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38061
-
-#EXTINF:-1 ,Eurosport2
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38062
-
-#EXTINF:-1 ,GolTv
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38060
-
-#EXTINF:-1 ,Movistar la liga
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38032
-
-#EXTINF:-1 ,BeinSport
-http://user.tvcluboficial.com/stream/free_eDeR_4BD/LDc/753.m3u8
-
-#EXTINF:-1 ,BeinSport ñ
-http://user.tvcluboficial.com/stream/free_eDeR_4BD/LDc/761.m3u8
-
-#EXTINF:-1 ,Movistar Deportes Plus
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/40715
-
-#EXTINF:-1 ,Bein Sport ñ
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37830
-
-#EXTINF:-1 ,La Liga TV
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37834
-
-#EXTINF:-1 ,Vamos
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/66435
-
-#EXTINF:-1 ,Teledeporte
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38054
-
-#EXTINF:-1 ,Dazn 4
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/67303
-
-#EXTINF:-1 ,Dazn 3
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/67302
-
-#EXTINF:-1 ,La Liga TvBar
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37835
-
-#EXTINF:-1 ,M. LA LIGA
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37836
-
-#EXTINF:-1 ,M. LA LIGA SD
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37841
-
-#EXTINF:-1 ,M.Liga de Campeones
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37843
-
-#EXTINF:-1 ,Movistar f1
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38140
-
-#EXTINF:-1 ,M. Formula1
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38056
-
-#EXTINF:-1 ,GolTv
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38060
-
-#EXTINF:-1 ,EuroSport1
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38061
-
-#EXTINF:-1 ,EuroSport2
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38062
-
-#EXTINF:-1 ,Taquilla1
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38046
-
-#EXTINF:-1 ,Taquilla2
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38047
-
-#EXTINF:-1 ,Taquilla3
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38048
-
-#EXTINF:-1 ,Taquilla4
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38049
-
-#EXTINF:-1 ,Taquilla5
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38051
-
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,74 TV MUSICA
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 ,
 
 #EXTINF:-1 ,BABYSHARK TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
