@@ -5,6 +5,30 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 ,EL REINO INFANTIL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 ,BEBECITO BUM Y SUS AMIGOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 ,TOONS GOGGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-1 ,DUCK TV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+
+#EXTINF:-1 ,TELETUBBIES
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 ,BABYSHARK TV
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 ,TOONS
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-1 ,ANGRYBIRD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;us_privacy=1---&amp;did=29d976831067d48c1669f305dcaea6f9&amp;app_bundle=com.toongoggles.html5&amp;app_store_url=http://www.toongoggles.com/devices&amp;app_domain=toongoggles.com&amp;app_name=toongoggles&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=toongoggles&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;livestream=1&amp;timestamp=1616162944&amp;id=266911&amp;ip=92.38.148.59&amp;override_expiration=1500&amp;sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs=
+
+#EXTINF:-1 ,LEGO TOONS
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
 #EXTINF:-1  ,Rakuten en familia
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
@@ -22,50 +46,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a6
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
 #EXTINF:-1 ,JUNIOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 ,INFANTIL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,BABAR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 ,BABY FIRST
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,BARNEY
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,LAS PISTAS DE BLUE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,RETRO CARTOONS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,JUNIOR1
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,PLANETA JUNIOR1
-https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8?ads.wurl_channel=594&ads.wurl_name=PlanetaKidz&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=1&ads.consent={TC_STRING}
 
 #EXTINF:-1 ,THE PET COLLECTIVE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -84,9 +69,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf8886100076698
 
 #EXTINF:-1 ,ANIME CLASICO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,IGN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 ,PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -111,66 +93,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c
 
 #EXTINF:-1 ,PLUTOTV CINE ROMANTICO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,BEBECITO BUM Y SUS AMIGOS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,TOONS GOGGLES
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-
-#EXTINF:-1 ,RAKUTEN FAMILIA
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel=718&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}
-
-#EXTINF:-1 ,PEQUERADIO 
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 ,DUCK TV
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-
-#EXTINF:-1 ,TELETUBBIES
-https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 ,Canal Panda
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38036
-
-#EXTINF:-1 ,CAILLOU
-https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}
-
-#EXTINF:-1 ,LEGO TOONS
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 ,Vamos
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/66435
-
-#EXTINF:-1 ,Movistar Accion
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38135
-
-#EXTINF:-1 ,Movistar Odisea
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38141
-
-#EXTINF:-1 ,Disney Channel
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38134
-
-#EXTINF:-1 ,Axn
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38120
-
-#EXTINF:-1 ,Calle 13
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38118
-
-#EXTINF:-1 ,Calle 13
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1179
-
-#EXTINF:-1 ,Comedy Central
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38114
-
-#EXTINF:-1 ,La Liga TV Bar
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38111
-
-#EXTINF:-1 ,La Liga 2
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38109
-
-#EXTINF:-1 ,Be Mad
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38103
 
 #EXTINF:-1 ,Rakuten Tv Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
@@ -208,25 +130,10 @@ https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 ,Retro TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,Retro TV
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,La1 HD
 http://jvhalyb7c1vr4pjmzfo0h6.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=355&t=live&f=ts
-
-#EXTINF:-1 ,La 1
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1137
 
 #EXTINF:-1 ,La2 HD
 http://x1grvkd75hfwnbu3mtcsgm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=421&t=live&f=ts
@@ -234,47 +141,14 @@ http://x1grvkd75hfwnbu3mtcsgm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 #EXTINF:-1 ,Antena3 HD
 http://g29kvwzsm1hq5udwrfyyfa.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=348&t=live&f=ts
 
-#EXTINF:-1 ,Antena3
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1145
-
 #EXTINF:-1 ,Cuatro HD
 http://ctr4zuehk6yv9p30wdjmeg.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=351&t=live&f=ts
-
-#EXTINF:-1 ,Cuatro
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1146
 
 #EXTINF:-1 ,Telecinco HD
 http://7rustqtaoxpv9lv2e0nxdn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=374&t=live&f=ts
 
-#EXTINF:-1 ,Telecinco
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1147
-
 #EXTINF:-1 ,La Sexta HD
 http://ynizlrg9uhuaq85gwqojta.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=356&t=live&f=ts
-
-#EXTINF:-1 ,La Sexta
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1148
-
-#EXTINF:-1 ,FDF
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1150
-
-EXTINF:-1 ,Energy
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1151
-
-EXTINF:-1 ,Neox
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1154
-
-EXTINF:-1 ,Mega 
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1156
-
-EXTINF:-1 ,A3 Series
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1157
-
-EXTINF:-1 ,Dkiss
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1158
-
-EXTINF:-1 ,Comedy Central
-http://51.222.43.170:36995/duplex304/04/01/22/gZZjbcwT27be/1163
 
 #EXTINF:-1 ,M.Estrenos HD
 http://z8w92n5at7kryrzijmhmku.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=364&t=live&f=ts
@@ -316,17 +190,5 @@ http://yprknwjpcys1v5u6elrott.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,
 
-#EXTINF:-1 ,BABYSHARK TV
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 ,TOONS
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-
-#EXTINF:-1 ,EBSKIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 ,ANGRYBIRD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;us_privacy=1---&amp;did=29d976831067d48c1669f305dcaea6f9&amp;app_bundle=com.toongoggles.html5&amp;app_store_url=http://www.toongoggles.com/devices&amp;app_domain=toongoggles.com&amp;app_name=toongoggles&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=toongoggles&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;livestream=1&amp;timestamp=1616162944&amp;id=266911&amp;ip=92.38.148.59&amp;override_expiration=1500&amp;sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs=
 
