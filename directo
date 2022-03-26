@@ -8,6 +8,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fc
 #EXTINF:-1 ,BEBECITO BUM Y SUS AMIGOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 ,BABY TV
+http://56kwrejad1lbgdbgcszhwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=383&t=live&f=ts
+
+#EXTINF:-1 ,CANAL PANDA
+http://qm20ostcfyca4gwkihdv3i.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=401&t=live&f=ts
+
+#EXTINF:-1 ,CLAN TV
+http://tlmah3en74ifeakiyurf1m.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=403&t=live&f=ts
+
 #EXTINF:-1 ,TOONS GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 
@@ -202,20 +211,47 @@ http://sb47tud9dlmb32ogexrxyk.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 #EXTINF:-1 ,SOMOS
 http://0hqw8enjdfkalersxflyau.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26342&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,CINE1
+http://3j4mhoulw2bvuh6cgdeevf.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26344&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,SUPTV
+http://mi1arghhw9cuzbtbzjxqo3.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26345&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,SYFY HD
+http://uk08ewsg6ntzmalfytp3qg.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=372&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,CALLE 13
+http://dne7ilyf0sbysoazq8e2jz.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=350&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,COMEDY CENTRAL
+http://rgocqpatroei2kvbuhed3x.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=405&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,COSMO HD
+http://m4sesl0jonuahtfp79xfq5.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=406&t=live&f=ts
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,PROCAJA TV1
+http://kwnzca5ujsxywlvx73d2p1.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26722&t=live&f=ts
 
+#EXTINF:-1 ,MARVEL1
+http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
+
+#EXTINF:-1 ,MARVEL2
+http://9ecyr3af0rzjnsoluuhtqo.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26326&t=live&f=ts
+
+#EXTINF:-1 ,MARVEL3
+http://c6ir97bcgk3xllfnthovwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26327&t=live&f=ts
+
+#EXTINF:-1 ,MARVEL4
+http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26328&t=live&f=ts
+
+#EXTINF:-1 ,MARVEL5
+http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
+
+#EXTINF:-1 ,SUPERMOVIE 1
+http://hqnsf9wu7ecmii2uzkgrx3.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26330&t=live&f=ts
+
+#EXTINF:-1 ,SUPERMOVIE 2
+http://liufk3rzwpqntqh0jrfm9s.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26331&t=live&f=ts
 
 #EXTINF:-1 ,FAILARMY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
