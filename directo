@@ -52,8 +52,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab4
 #EXTINF:-1 ,BABY FIRST
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 ,THE PET COLLECTIVE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 ,M.LA LIGA
+http://epqseyxawnpj0iktzan7vr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26046&t=live&f=ts
+
+#EXTINF:-1 ,M. LA LIGA HD+
+http://f8bnkgcawhrpuque5rhkmc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26248&t=live&f=ts
+
+#EXTINF:-1 ,LALIGA HD
+http://1sz6g73cp0rebtkpnexxhm.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26246&t=live&f=ts
+
+#EXTINF:-1 ,LA LIGA BAR HD
+http://omhav29tnbw5ilm8ueabs1.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=357&t=live&f=ts
+
+#EXTINF:-1 ,BeinSport
+http://dwrkvhcsgoly3nelcxhd72.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26321&t=live&f=ts
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
 
 #EXTINF:-1 ,FAILARMY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
