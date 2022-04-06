@@ -8,9 +8,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fc
 #EXTINF:-1 ,BABY TV
 http://5f011c7002235704dcac6b06396e53b4.spa.procaja.me:25461/skKbQrxJcY/6777416441/383?h=6ea20ba44ca483a15e9ef4ca2776d049dcddd769&z=&i=46094
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,DREAMWORK
+http://5f011c7002235704dcac6b06396e53b4.spa.procaja.me:25461/skKbQrxJcY/6777416441/26625?h=6ea20ba44ca483a15e9ef4ca2776d049dcddd769&z=&i=46094
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,DISNEY CH
+http://5f011c7002235704dcac6b06396e53b4.spa.procaja.me:25461/skKbQrxJcY/6777416441/3837?h=6ea20ba44ca483a15e9ef4ca2776d049dcddd769&z=&i=46094
 
 #EXTINF:-1 ,
 
