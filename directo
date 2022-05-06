@@ -143,14 +143,18 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Rakuten Tv Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+
 #EXTINF:-1 ,Atrescine
 https://www.uncdp.com/proxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 ,Feel Good
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,Run Time
-https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,Mtv
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
@@ -170,3 +174,27 @@ https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 ,Retro TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 ,Mola Tv
+http://gratis.shortgod.com/nomerobesweon8/tv3.php?id=http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
